@@ -1,0 +1,67 @@
+[
+  {
+    "model": "recipe.recipe",
+    "pk": 2,
+    "fields": {
+      "title": "米",
+      "content": "内容テスト２",
+      "description": "ライスタ",
+      "image": "images/uploaded/582ab8b8-e268-4996-8d24-18d60aba149e.jpeg",
+      "user": null,
+      "created": "2021-05-11T01:46:53.462Z",
+      "modified": "2021-06-04T01:48:13.559Z"
+    }
+  },
+  {
+    "model": "recipe.recipe",
+    "pk": 3,
+    "fields": {
+      "title": "肉",
+      "content": "内容テスト３",
+      "description": "",
+      "image": "",
+      "user": 1,
+      "created": "2021-05-11T01:47:07.874Z",
+      "modified": "2021-06-09T02:39:27.611Z"
+    }
+  },
+  {
+    "model": "recipe.recipe",
+    "pk": 4,
+    "fields": {
+      "title": "石英",
+      "content": "内容テスト４",
+      "description": "",
+      "image": "images/uploaded/quartz02.jpeg",
+      "user": null,
+      "created": "2021-05-11T01:47:26.466Z",
+      "modified": "2021-06-04T01:44:04.351Z"
+    }
+  },
+  {
+    "model": "recipe.recipe",
+    "pk": 5,
+    "fields": {
+      "title": "ビスケット",
+      "content": "内容テスト５",
+      "description": "",
+      "image": "images/uploaded/617D.jpeg",
+      "user": 1,
+      "created": "2021-05-11T01:47:41.009Z",
+      "modified": "2021-06-09T02:39:22.021Z"
+    }
+  },
+  {
+    "model": "recipe.recipe",
+    "pk": 7,
+    "fields": {
+      "title": "ヨーグルト",
+      "content": "内容テスト１",
+      "description": "",
+      "image": "images/uploaded/ccf043e078494505975981852b2f51ea.jpeg",
+      "user": 1,
+      "created": "2021-05-27T00:24:27.845Z",
+      "modified": "2021-06-09T00:21:52.110Z"
+    }
+  }
+]
