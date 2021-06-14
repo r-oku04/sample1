@@ -10,6 +10,12 @@ django = "*"
 django-crispy-forms = "*"
 pillow = "*"
 django-imagekit = "*"
+psycopg2-binary = "*"
+dj-database-url = "*"
+
+django-storages = "*"
+boto3 = "*"
+
 
 [requires]
 python_version = "3.9"
