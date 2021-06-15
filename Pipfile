@@ -12,7 +12,7 @@ pillow = "*"
 django-imagekit = "*"
 psycopg2-binary = "*"
 dj-database-url = "*"
-
+gunicorn = "*"
 django-storages = "*"
 boto3 = "*"
 
