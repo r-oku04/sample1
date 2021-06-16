@@ -12,7 +12,7 @@ class Migration(migrations.Migration):
     operations = [
         migrations.AlterModelOptions(
             name='recipe',
-            options={'verbose_name': 'レシピ', 'verbose_name_plural': 'レシピ'},
+            options={'verbose_name': '測定器', 'verbose_name_plural': '測定器'},
         ),
         migrations.AddField(
             model_name='recipe',
